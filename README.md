@@ -1,2 +1,2 @@
-# odin-recipies
-Then Odin Project - Simple Recipes Site
+# odin-recipes
+Then Odin Project - Simple Plain HTML Recipes Site
